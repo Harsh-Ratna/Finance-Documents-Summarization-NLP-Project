@@ -5,7 +5,7 @@ Develop an NLP-based system for the automated extraction, analysis, and summariz
 <p align='center'><a href="https://github.com/Harsh-Ratna/Finance-Documents-Summarization-NLP-Project/blob/main/images/methodology.png" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Finance-Documents-Summarization-NLP-Project/blob/main/images/methodology.png" height="500" /></a></p>
 
 # Results
-<p align='center'><a href="https://github.com/Harsh-Ratna/Finance-Documents-Summarization-NLP-Project/blob/main/images/NER%20Results.png" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Finance-Documents-Summarization-NLP-Project/blob/main/images/NER%20Results.png" height="500" /></a></p>
+<p align='center'><a href="https://github.com/Harsh-Ratna/Finance-Documents-Summarization-NLP-Project/blob/main/images/NER%20Results.png" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Finance-Documents-Summarization-NLP-Project/blob/main/images/NER%20Results.png" height="300" /></a></p>
 
 # Wordcloud
 <p align='center'><a href="https://github.com/Harsh-Ratna/Finance-Documents-Summarization-NLP-Project/blob/main/images/top%20keywords.png" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Finance-Documents-Summarization-NLP-Project/blob/main/images/top%20keywords.png" height="300" /></a></p>
